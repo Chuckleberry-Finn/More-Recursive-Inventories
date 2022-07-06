@@ -3,5 +3,7 @@ id=MoreRecursiveInventories
 description=Makes the hotbar radial menu (holding down the hotbar keys) recursively search your inventories.
 description=Makes the vehicle mechanics window recursively search your inventories.
 description=
+description=Overwritten Functions: ISHotbar.onKeyKeepPressed, ISVehicleMechanics:doPartContextMenu, ISVehicleMechanics:doMenuTooltip
+description=
 description=Will add more as found.
 poster=poster.png
