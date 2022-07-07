@@ -295,7 +295,6 @@ function ISVehicleMechanics:doPartContextMenu(part, x,y)
 
     if part:getId() == "Engine" then
 
-        ----//Added this just cause honestly
         if VehicleUtils.RequiredKeyNotFound(part, self.chr) then
             option = self.context:addOption(getText("GameSound_VehicleDoorIsLocked"), nil, nil);
             self:doMenuTooltip(part, option, "takeengineparts");

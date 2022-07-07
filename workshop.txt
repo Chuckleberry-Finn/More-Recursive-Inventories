@@ -1,13 +1,20 @@
 version=1
 id=2831488837
-title=More Recursive Inventories
-description=Makes more processes check inventories within your main inventory, and so on.
+title=More Recursive Inventory Checks
+description=[h3]Makes more processes check inventories within your main inventory, and so on.[/h3]
 description=
-description=So far:
-description=Hotbar radial menu (holding down the hotbar keys).
-description=Vehicle mechanics window for engine parts/wrenches.
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
 description=
-description=Overwritten Functions: ISHotbar.onKeyKeepPressed, ISVehicleMechanics:doPartContextMenu, ISVehicleMechanics:doMenuTooltip
+description=So far:
+description=Hotbar radial menu (holding down the hotbar keys).
+description=Vehicle mechanics window for engine parts/wrenches.
+description=
+description=Overwritten Functions:
+description=ISHotbar.onKeyKeepPressed
+description=ISVehicleMechanics:doPartContextMenu
+description=ISVehicleMechanics:doMenuTooltip
+description=
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck![/b][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/Vanilla-Weapons-Expanded/main/Contents/Patreon%20Logo.png[/img][/url]
 description=
 description=Will add more as found.
 tags=Build 41;Interface;Misc
